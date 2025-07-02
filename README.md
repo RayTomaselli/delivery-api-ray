@@ -1,6 +1,6 @@
 # Delivery Tech API
 
-Sistema de delivery desenvolvido com Spring Boot e Java 21.
+Sistema de delivery desenvolvido com Spring Boot e Java 17.
 
 ## 🚀 Tecnologias
 - **Java 17 LTS** (versão mais recente)
